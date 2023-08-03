@@ -1,2 +1,2 @@
-# lampung
+# Lampung JS
 Lampung.js
